@@ -68,10 +68,10 @@
 
 <div align="center">
   <h2>🔗 Connect With Me</h2>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto: akashdas1930@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-id">
+  <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
