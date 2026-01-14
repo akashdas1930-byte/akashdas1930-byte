@@ -45,14 +45,13 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       </p>
-    </td>
-    
-   <td width="45%" valign="top">
+    </td><br/><br/>
+        <td width="45%" valign="top">
       <h2>📊 GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=akashdas1930-byte&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" alt="Stats" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akashdas1930-byte&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" alt="Stats" width="100%" />
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdas1930-byte&layout=compact&theme=react&hide_border=true&bg_color=0d1117" alt="Languages" width="100%" />
-    </td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akashdas1930-byte&layout=compact&theme=react&hide_border=true&bg_color=0d1117" alt="Languages" width="100%" />
+        </td>
   </tr>
 </table>
 
