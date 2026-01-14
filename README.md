@@ -31,6 +31,7 @@
     <td width="55%" valign="top">
       <h2>⚡ Who Am I (Live Feed)</h2>
       <ul>
+        <li>🔭<b>Learning:</b> HTML CSS & JS for Frontend </b>
         <li>🔭 <b>Learning:</b> Python for backend logic</li>
         <li>🗄️ <b>Working with:</b> PostgreSQL databases</li>
         <li>🌱 <b>Training for:</b> Long-term engineering growth</li>
