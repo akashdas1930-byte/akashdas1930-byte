@@ -35,7 +35,7 @@
         <li>🗄️ <b>Working with:</b> PostgreSQL databases</li>
         <li>🌱 <b>Training for:</b> Long-term engineering growth</li>
         <li>😆 <b>Fun Fact:</b> I think I have a nice sense of humor</li>
-        <li>📫 <b>Contact:</b> akashdas1930@example.com</li>
+        <li>📫 <b>Contact:</b> akashdas1930@gmail.com</li>
       </ul>
       
    <h2>🛠️ Tech Stack</h2>
