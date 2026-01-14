@@ -9,10 +9,14 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
 <br/>
   </pre>
-  <h3>👋 Hi, I'm Akash Das! | Backend Developer | Python & PostgreSQL</h3>
+  <h3>👋 Hi, I'm Akash Das! | Backend & Frontend Developer | Python & PostgreSQL</h3>
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+I'm+Akash+Das!+%F0%9F%91%8B;Fullstack+Web+Developer;Python+%26+PostgreSQL;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge&logo=headspace&logoColor=white&color=2bbc8a" alt="Status" />
@@ -31,10 +35,10 @@
         <li>🗄️ <b>Working with:</b> PostgreSQL databases</li>
         <li>🌱 <b>Training for:</b> Long-term engineering growth</li>
         <li>😆 <b>Fun Fact:</b> I think I have a nice sense of humor</li>
-        <li>📫 <b>Contact:</b> your-email@gmail.com</li>
+        <li>📫 <b>Contact:</b> akashdas1930@example.com</li>
       </ul>
       
-  <h2>🛠️ Tech Stack</h2>
+   <h2>🛠️ Tech Stack</h2>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -43,7 +47,7 @@
       </p>
     </td>
     
-  <td width="45%" valign="top">
+   <td width="45%" valign="top">
       <h2>📊 GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=akashdas1930-byte&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" alt="Stats" width="100%" />
       <br/><br/>
@@ -57,14 +61,10 @@
   <img src="https://github.com/akashdas1930-byte/akashdas1930-byte/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
-<br/>
-
 <h2>📝 Daily Reminder</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&bg_color=0d1117" alt="Quote" />
 </div>
-
-<br/>
 
 <div align="center">
   <h2>🔗 Connect With Me</h2>
@@ -77,7 +77,6 @@
 </div>
 
 <div align="center">
-  <br />
   <br />
   🚧 <b>Profile Under Active Construction</b> 🚧
 </div>
