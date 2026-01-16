@@ -49,9 +49,9 @@
     </td><br/><br/>
         <td width="45%" valign="top">
       <h2>📊 GitHub Stats</h2>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akashdas1930-byte&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" alt="Stats" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkashxGit&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" alt="Stats" width="100%" />
       <br/><br/>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akashdas1930-byte&layout=compact&theme=react&hide_border=true&bg_color=0d1117" alt="Languages" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkashxGit&layout=compact&theme=react&hide_border=true&bg_color=0d1117" alt="Languages" width="100%" />
         </td>
   </tr>
 </table>
